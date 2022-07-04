@@ -1,9 +1,9 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)](https://github.com/Matheus-Chaves)
+[![MasterHead](https://free4kwallpapers.com/uploads/originals/2017/01/18/synthwave-wallpaper.jpg)](https://github.com/Matheus-Chaves)
 <h1 align="center">Hi 👋, I'm Matheus Chaves 🙋</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil, São Paulo 🇧🇷</h3>
 <h5 align="center">Student and graduating in Systems Analysis and Development.</h5>
 
-<img align="right" alt="Coding" width="300" style="border: 5px solid red" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="420" style="border: 5px solid red" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-chaves&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-chaves" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about: **Flutter, NodeJs, TypeScript, CSS**
 
-- 📫 How to reach me: **call me on my LinkedIn: linkedin.com/in/matheus-chavess**
+- 📫 How to reach me: **call me on my LinkedIn!**
 
 - ⚡ Fun fact: **besides developing, I like UI/UX too!**
 
@@ -32,7 +32,6 @@
 <hr>
 
 <p>
-  <img align="left" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-chaves&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="matheus-chaves" />
-  &nbsp;
-  <img align="center" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-chaves&show_icons=true&locale=en&theme=synthwave" alt="matheus-chaves" />
+  <img align="center" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-chaves&show_icons=true&locale=en&layout=compact&theme=radical" alt="matheus-chaves" />
+  <img align="center" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-chaves&show_icons=true&locale=en&theme=radical" alt="matheus-chaves" />
 </p>
