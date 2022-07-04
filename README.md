@@ -1,6 +1,8 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)](https://github.com/Matheus-Chaves)
 <h1 align="center">Hi 👋, I'm Matheus Chaves 🙋</h1>
-<h3 align="center">A passionate Full Stack developer from Brazil, São Paulo 🇧🇷 ➡️ Student and graduating in Systems Analysis and Development.</h3>
+<h3 align="center">A passionate Full Stack developer from Brazil, São Paulo 🇧🇷</h3>
+<h5 align="center">Student and graduating in Systems Analysis and Development.</h5>
+
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-chaves&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-chaves" /> </p>
