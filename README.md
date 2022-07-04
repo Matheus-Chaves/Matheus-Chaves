@@ -32,6 +32,6 @@
 <hr>
 
 <p>
-  <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-chaves&show_icons=true&locale=en&layout=compact&theme=radical" alt="matheus-chaves" />
-  <img align="center" height="210" src="https://github-readme-stats.vercel.app/api?username=matheus-chaves&show_icons=true&locale=en&theme=radical" alt="matheus-chaves" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-chaves&show_icons=true&locale=en&layout=compact&theme=radical" alt="matheus-chaves" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=matheus-chaves&show_icons=true&locale=en&theme=radical" alt="matheus-chaves" />
 </p>
