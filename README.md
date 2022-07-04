@@ -36,3 +36,5 @@
   <img align="center" height="180.7" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-chaves&show_icons=true&locale=en&layout=compact&theme=radical" alt="matheus-chaves" />
   <img align="center" height="180.7" src="https://github-readme-stats.vercel.app/api?username=matheus-chaves&show_icons=true&locale=en&theme=radical" alt="matheus-chaves" />
 </p>
+
+![Snake animation](https://github.com/matheus-chaves/matheus-chaves/blob/output/github-contribution-grid-snake.svg)
