@@ -19,9 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@matheuschaves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@matheuschaves" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/matheus-chavess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-chavess" height="30" width="40" /></a>
-<a href="https://dribbble.com/matheuschaves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="matheuschaves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matheus-chavess" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matheus-chavess" /></a>
+<a href="https://dev.to/@matheuschaves" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="@matheuschaves" /></a>
+<a href="https://dribbble.com/matheuschaves" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="matheuschaves" /></a>
+<a href="mailto:matheusfonsecachaves@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="matheuschaves"/></a>
 </p>
 
 <hr/>
