@@ -1,7 +1,7 @@
 [![MasterHead](https://free4kwallpapers.com/uploads/originals/2017/01/18/synthwave-wallpaper.jpg)](https://github.com/Matheus-Chaves)
 <h1 align="center">Hi 👋, I'm Matheus Chaves 🙋</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil, São Paulo 🇧🇷</h3>
-<h5 align="center">Student and graduating in Systems Analysis and Development.</h5>
+<h5 align="center">Student 🧑‍🎓 - graduating in Systems Analysis and Development 👨‍💻</h5>
 
 <img align="right" alt="Coding" width="420" style="border: 5px solid red" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning: **Flutter and Dart**
 
-- 💬 Ask me about: **Flutter, NodeJs, TypeScript, CSS**
+- 💬 Ask me about: **Flutter, NodeJs, Web Development and UI/UX**
 
-- 📫 How to reach me: **call me on my LinkedIn!**
+- 📫 How to reach me: **call me on my LinkedIn or email!**
 
 - ⚡ Fun fact: **besides developing, I like UI/UX too!**
 
