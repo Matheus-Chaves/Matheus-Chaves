@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from Brazil, São Paulo 🇧🇷</h3>
 <h5 align="center">Student 🧑‍🎓 - graduating in Systems Analysis and Development 👨‍💻</h5>
 
-<img align="right" alt="Coding" width="420" style="border: 5px solid red" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="300" style="border: 5px solid red" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-chaves&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-chaves" /> </p>
 
