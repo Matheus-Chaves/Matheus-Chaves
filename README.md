@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-chaves&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-chaves" /> </p>
 
-- 🌱 I’m currently learning: **Flutter and Dart**
+- 📖 Studying: **course 'ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID' on Udemy - <a href="https://www.udemy.com/course/react-com-mango/">Link</a>**
+
+- 🌱 I’m currently learning: **TDD, Ruby and Clean Code**
 
 - 💬 Ask me about: **Flutter, NodeJs, Web Development and UI/UX**
 
