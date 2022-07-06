@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-chaves&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-chaves" /> </p>
 
-- 📖 Studying: **course 'NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID' on Udemy - <a href="https://www.udemy.com/course/tdd-com-mango/">Course (link)</a>**
+- 📖 Studying: **course '<a href="https://www.udemy.com/course/tdd-com-mango/">NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID</a>' on Udemy**
 
 - 🌱 I’m currently learning: **TDD, Ruby and Clean Code**
 
