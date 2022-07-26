@@ -9,7 +9,7 @@
 
 - 📖 Studying: **course '<a href="https://www.udemy.com/course/tdd-com-mango/">NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID</a>' on Udemy.**
 
-- 🌱 I’m currently learning: **TDD, Ruby and Clean Code**
+- 🌱 I’m currently learning: **TDD, Node, Flutter, React**
 
 - 👨‍💻 Working with: **Google Cloud Platform, Big Query, Python and Web Development.**
 
