@@ -81,9 +81,9 @@
 
 <hr>
 
-<p>
-  <img align="center" height="180.7" src="https://github-readme-stats-x7ca-matheus-chaves.vercel.app/api/top-langs?username=Matheus-Chaves&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="matheus-chaves" />
-  <img align="center" height="180.7" src="https://github-readme-stats-x7ca-matheus-chaves.vercel.app/api?username=Matheus-Chaves&show_icons=true&hide_border=true&locale=en&theme=radical" alt="matheus-chaves" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats-x7ca-matheus-chaves.vercel.app/api/top-langs?username=Matheus-Chaves&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="matheus-chaves" style="display: inline-block; vertical-align: top; height: 195px"/>
+  <img align="center" src="https://github-readme-stats-x7ca-matheus-chaves.vercel.app/api?username=Matheus-Chaves&show_icons=true&hide_border=true&locale=en&theme=radical" alt="matheus-chaves" style="display: inline-block; vertical-align: top; height: 195px"/>
 </p>
 
 <!-- ![Snake animation](https://github.com/matheus-chaves/matheus-chaves/blob/output/github-contribution-grid-snake.svg) -->
