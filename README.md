@@ -1,4 +1,3 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/027/198/918/large/michal-kvac-synthwave-small.jpg?1590864042)](https://github.com/Matheus-Chaves)
 <h1 align="center">Hi 👋, I'm Matheus Chaves 🙋</h1>
 <h3 align="center">A passionate Data Engineer and Data Scientist from Brazil, São Paulo 🇧🇷</h3>
 <h5 align="center">Graduated in Systems Analysis and Development 👨‍💻 | Pursuing a Postgraduate Degree in Machine Learning Engineering 🧑‍🎓</h5>
